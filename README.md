@@ -1,5 +1,4 @@
-# Node and React JS Tutorial
-# Frontend and Backend setup with page routing
+
 
 I used Homebrew to install Node. Before starting, I like to run the following commands...
 
@@ -46,3 +45,5 @@ Update the frontend/package.json with the "proxy" code:
 ```
 
 See the package.json file for npm run scripts.
+bkend: npm run server
+ftend: npm start

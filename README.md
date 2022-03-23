@@ -1,6 +1,6 @@
 
 
-I used Homebrew to install Node. Before starting, I like to run the following commands...
+
 
 Homebrew Commands:
 ```javascript
